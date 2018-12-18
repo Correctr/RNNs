@@ -35,10 +35,14 @@ http://papers.nips.cc/paper/5955-convolutional-lstm-network-a-machine-learning-a
 
 https://scholar.google.de/scholar?start=10&q=lstm&hl=de&as_sdt=0,5
 
+https://ai.googleblog.com/2016/09/show-and-tell-image-captioning-open.html
+
 # code:
 https://github.com/karpathy/neuraltalk
 
 https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/03-advanced/image_captioning
+
+https://github.com/tensorflow/models/tree/master/research/im2txt
 
 # answer selection
 https://arxiv.org/abs/1511.04108
