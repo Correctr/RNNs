@@ -37,6 +37,8 @@ https://scholar.google.de/scholar?start=10&q=lstm&hl=de&as_sdt=0,5
 
 https://ai.googleblog.com/2016/09/show-and-tell-image-captioning-open.html
 
+https://www.mdpi.com/2220-9964/7/4/129/htm
+
 # code:
 https://github.com/karpathy/neuraltalk
 
