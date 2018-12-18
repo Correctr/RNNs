@@ -17,3 +17,22 @@
 # https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Alahi_Social_LSTM_Human_CVPR_2016_paper.html
 # http://papers.nips.cc/paper/5955-convolutional-lstm-network-a-machine-learning-approach-for-precipitation-nowcasting
 # https://scholar.google.de/scholar?start=10&q=lstm&hl=de&as_sdt=0,5
+#code:
+# https://github.com/karpathy/neuraltalk
+# https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/03-advanced/image_captioning
+
+# answer selection
+# https://arxiv.org/abs/1511.04108
+
+# video description
+# https://arxiv.org/pdf/1604.01729.pdf
+
+# Multi-sensor anomaly detection
+# https://arxiv.org/abs/1607.00148
+
+# business process monitoring
+# https://link.springer.com/chapter/10.1007/978-3-319-59536-8_30
+
+# video classification
+# https://github.com/sagarvegad/Video-Classification-CNN-and-LSTM-
+
