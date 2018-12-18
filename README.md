@@ -46,6 +46,11 @@ https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/03-advanced/ima
 
 https://github.com/tensorflow/models/tree/master/research/im2txt
 
+# diy
+https://medium.freecodecamp.org/building-an-image-caption-generator-with-deep-learning-in-tensorflow-a142722e9b1f
+
+https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/
+
 # answer selection
 https://arxiv.org/abs/1511.04108
 
