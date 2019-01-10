@@ -50,12 +50,15 @@ https://github.com/tensorflow/models/tree/master/research/im2txt
 https://medium.freecodecamp.org/building-an-image-caption-generator-with-deep-learning-in-tensorflow-a142722e9b1f
 
 https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/
+
 https://arxiv.org/pdf/1411.4555.pdf
 
 
 # image caption with attention
-https://github.com/ilivans/tf-rnn-attention
+https://github.com/DeepRNN/image_captioning
+
 https://arxiv.org/pdf/1502.03044.pdf
+
 http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture10.pdf
 
 
