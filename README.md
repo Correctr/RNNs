@@ -61,6 +61,8 @@ https://arxiv.org/pdf/1502.03044.pdf
 
 http://cs231n.stanford.edu/slides/2018/cs231n_2018_lecture10.pdf
 
+https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow #(visualize attention)
+
 
 # answer selection
 https://arxiv.org/abs/1511.04108
