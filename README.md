@@ -81,4 +81,5 @@ https://github.com/sagarvegad/Video-Classification-CNN-and-LSTM-
 
 # music generation
 https://github.com/tensorflow/magenta/tree/master/magenta/models/melody_rnn
-http://www.tutiaoba.com/2047.html #Chinese
+http://www.tutiaoba.com/2047.html #Chinese 
+https://github.com/mcleavey/musical-neural-net
