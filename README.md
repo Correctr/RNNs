@@ -79,3 +79,6 @@ https://link.springer.com/chapter/10.1007/978-3-319-59536-8_30
 # video classification
 https://github.com/sagarvegad/Video-Classification-CNN-and-LSTM-
 
+# music generation
+https://github.com/tensorflow/magenta/tree/master/magenta/models/melody_rnn
+http://www.tutiaoba.com/2047.html #Chinese
