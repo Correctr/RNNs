@@ -53,6 +53,8 @@ https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-mo
 
 https://arxiv.org/pdf/1411.4555.pdf
 
+https://github.com/Shobhit20/Image-Captioning
+
 
 # image caption with attention
 https://github.com/DeepRNN/image_captioning
